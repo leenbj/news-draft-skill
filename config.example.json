@@ -1,0 +1,9 @@
+{
+  "_说明": "可选配置。复制本文件为 config.json 后按需填写；环境变量优先级高于本文件。",
+  "_anysearch_cmd": "直接指定 AnySearch 检索命令（等价 NEWS_ANYSEARCH_CMD / ANYSEARCH_CMD）",
+  "_anysearch_skill_dir": "指定 AnySearch 官方 skill 目录（等价 ANYSEARCH_SKILL_DIR）",
+  "_state_dir": "科普话题状态文件目录（等价 NEWS_STATE_DIR）；skills 目录只读时用它外置",
+  "anysearch_cmd": "",
+  "anysearch_skill_dir": "",
+  "state_dir": ""
+}
